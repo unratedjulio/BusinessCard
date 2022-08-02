@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="label_business_card">Business card</string>
+    <string name="label_description_new_card">New card</string>
+    <string name="label_name">Name</string>
+    <string name="label_phone">Phone</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_company">Company</string>
+    <string name="label_color">Color</string>
+    <string name="confirm">Confirm</string>
+    <string name="label_show_success">Business card created.</string>
+    <string name="label_share">Share</string>
+    <string name="label_delete">Delete</string>
+    <string name="label_close">Close</string>
+    <string name="label_add">Add</string>
+</resources>
